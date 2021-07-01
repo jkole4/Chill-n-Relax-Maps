@@ -1,0 +1,6 @@
+ID: COBALTOIL2 - Location: (-1425.6, 29.6, -1294.3)
+ID: COBALTOIL1 - Location: (-1355.5, 33.8, -1314.0)
+ID: AREA15 - Location: (-851.1, 30.0, 1188.6)
+ID: AREA15RUNWAY - Location: (-691.0, 33.6, 1208.2)
+ID: MILHARBORCARPARK - Location: (535.8, 32.2, -1835.6)
+ID: MILHARBORDOCK - Location: (481.0, 11.4, -1948.9)

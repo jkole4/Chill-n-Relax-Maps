@@ -1,0 +1,6 @@
+ID: AREA15 - Location: (-471.4, 47.5, -851.7)
+ID: AREA15RUNWAY - Location: (-631.1, 51.1, -871.6)
+ID: MilitaryHarborOffice - Location: (1831.8, 13.7, -313.5)
+ID: MilitaryHarborDock - Location: (1860.6, 13.3, -307.5)
+ID: COBALTOIL1 - Location: (-944.7, 63.8, 739.4)
+ID: COBALTOIL2 - Location: (-922.3, 59.5, 809.5)
