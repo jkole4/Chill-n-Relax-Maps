@@ -1,0 +1,7 @@
+ID: AREA15 - Location: (24.7, 55.8, 65.7)
+ID: notmenttobewatching - Location: (198.3, 29.4, -3.0)
+ID: notmenttobewatching2 - Location: (197.9, 29.6, 5.1)
+ID: Area15Bunker - Location: (190.6, 39.2, -7.2)
+ID: Area15Runway - Location: (162.6, 55.3, 130.8)
+ID: MilitaryHarborOffice - Location: (-1927.3, 14.4, -296.9)
+ID: MilitaryHarborDock - Location: (-1956.1, 14.0, -302.8)
